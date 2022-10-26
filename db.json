@@ -1,0 +1,32 @@
+{
+  "oregotthonok": [
+    {
+      "id": 1,
+      "name": "Napsugár Öregotthon",
+      "zipcode": 1083,
+      "city": "Budapest",
+      "road": "Népker út, 24"
+    },
+    {
+      "id": 2,
+      "name": "Valósáh Só Öregotthon",
+      "zipcode": 1074,
+      "city": "Budapest",
+      "road": "Kertész János utca, 137"
+    },
+    {
+      "id": 3,
+      "name": "Bíboros Pihenő-Otthon",
+      "zipcode": 3300,
+      "city": "Eger",
+      "road": "Nagy Károly tér, 76"
+    },
+    {
+      "id": 4,
+      "name": "Tételes Bérletes Idősek Otthona",
+      "zipcode": 2553,
+      "city": "Zagrádifi",
+      "road": "Tébolykert, 1/I. emelet 107"
+    }
+  ]
+}
